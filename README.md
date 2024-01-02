@@ -5,5 +5,6 @@ El objetivo del aprendizaje supervisado es que el algoritmo aprenda a generar la
 Hay dos tipos principales de aprendizaje supervisado:
 
 Clasificación: El objetivo de la clasificación es asignar una etiqueta a cada entrada. Por ejemplo, un algoritmo de clasificación podría utilizarse para clasificar imágenes de gatos y perros.
+
 Regresión: El objetivo de la regresión es predecir un valor continuo para cada entrada. Por ejemplo, un algoritmo de regresión podría utilizarse para predecir el precio de una casa en función de sus características.
 
