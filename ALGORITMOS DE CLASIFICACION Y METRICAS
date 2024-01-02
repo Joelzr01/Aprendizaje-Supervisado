@@ -1,0 +1,5 @@
+
+El aprendizaje supervisado es un tipo de aprendizaje automático en el que se proporciona al algoritmo un conjunto de datos etiquetados.
+Estos datos etiquetados consisten en pares de entradas y salidas. Las entradas son los datos que el algoritmo utilizará para aprender, y las salidas son los resultados esperados.
+El objetivo del aprendizaje supervisado es que el algoritmo aprenda a generar las salidas correctas para nuevas entradas.
+Para ello, el algoritmo utilizará un proceso de aprendizaje para encontrar las relaciones entre las entradas y las salidas.
